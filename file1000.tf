@@ -1,4 +1,2 @@
 my name is raj
-Goregaon
-Hingli
 
